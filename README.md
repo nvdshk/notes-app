@@ -9,7 +9,7 @@ Users can **register, login, search, add, edit, and delete notes** with real-tim
 
 - User Authentication (Email & Password)  
 - CRUD notes (Create, Read, Update, Delete)  
-- Search notes by keywords  
+- Search notes by title  
 - Real-time updates with **Firebase Firestore**  
 - Reactive state management using **GetX**
 
