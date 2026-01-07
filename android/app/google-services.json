@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621318374086",
+    "project_id": "fir-app-e819e",
+    "storage_bucket": "fir-app-e819e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621318374086:android:75f4c829561367680ccdc7",
+        "android_client_info": {
+          "package_name": "com.example.notes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnPf5-3vu0ok2sfnVyEzNr37HRvh_40EY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
